@@ -47,3 +47,4 @@ app.get('/api/biodata', async (req, res) => {
 app.listen(port, () => {
     console.log(`sistem hidup le. Akses API di postman`);
 });
+//http://localhost:${port}/api/biodata/
